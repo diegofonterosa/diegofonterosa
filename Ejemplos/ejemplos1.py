@@ -21,7 +21,6 @@ for n in numeros:
 print("Los cuadrados de los números mayores que 5 son:", cuadrados_mayores_5)
 
 
-
 # tienes la lista words = ["cat", "elephant, "dog, "giraffe"] imprime solo las palabras con mas de 4 letras y cuantas letras tiene cada una
 words = ["cat", "elephant", "dog", "giraffe"]
 for word in words:
