@@ -52,9 +52,8 @@
 
 ### 📊 Mis estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="160" />
-</p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="160" />
 
 ---
 
