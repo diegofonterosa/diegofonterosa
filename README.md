@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Diego Pérez Fonterosa</h1>
-<h3 align="center">Estudiante desde España, aprendiendo programación y construyendo mi futuro digital 🚀</h3>
+<h3 align="center">Estudiante de España, aprendiendo programación y construyendo mi futuro digital 🚀</h3>
 
 ---
 
