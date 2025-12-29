@@ -17,16 +17,31 @@
 
 👨‍💻 Estudiante de **ASIR** con experiencia práctica en administración de sistemas, programación y desarrollo web. Me especializo en crear soluciones funcionales que resuelven problemas reales, desde gestión de archivos hasta aplicaciones web interactivas.
 
-### 💼 Áreas de experiencia
-```javascript
-const skills = {
-    backend: ["Python", "Node.js", "APIs"],
-    frontend: ["HTML5", "CSS3", "JavaScript", "React"],
-    sistemas: ["Linux", "Windows Server", "Bash Scripting"],
-    redes: ["Cisco", "TCP/IP", "Routing & Switching"],
-    herramientas: ["Git", "GitHub", "VS Code", "Docker"]
-}
-```
+### 💼 Stack tecnológico
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" title="Linux" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
+</p>
+
+<p align="center">
+  <sub>Backend • Frontend • Sistemas • Redes • DevOps</sub>
+</p>
 
 ### 🔥 Proyectos destacados
 
