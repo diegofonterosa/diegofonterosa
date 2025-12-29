@@ -1,36 +1,87 @@
-<h2 align="left">Hi 👋! My name is Diego and I'm a student, from Spain.</h2>
+<p align="center">
+  <img src="https://files.oaiusercontent.com/file-489c7c56-db52-4ad7-937a-d0640b732fc8/ga908G7LFdhYXCwITCx2RtuS?filename=banner_cyberpunk_diego.png" alt="Banner Diego Pérez Fonterosa" />
+</p>
 
-###
+<h1 align="center">👋 ¡Hola! Soy Diego Pérez Fonterosa</h1>
+<h3 align="center">Estudiante desde España, aprendiendo programación y construyendo mi futuro digital 🚀</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegofonterosa&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegofonterosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 👁️‍🗨️ Contador de visitas
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diegofonterosa&style=for-the-badge&color=blueviolet" alt="profile views" />
+</p>
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d1bjdnMHA5dWZiNXlrNmlmcnVhZzJwNXcwdG5ieGpkMHNhZjl5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+---
 
-###
+### 🌐 Sobre mí
+- 🎓 Estudiante apasionado por **programación, redes y ciberseguridad**
+- 💻 Empezando con: **HTML, CSS, Python, JavaScript**
+- 🧩 Me gusta aprender creando proyectos reales
+- 🎮 También hago streaming en Twitch (cuando hay energía y café ☕🔥)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+---
+
+### 🧰 Tecnologías & Herramientas
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</p>
 
-###
+---
 
-<div align="left">
+### 🧠 Nivel de aprendizaje (Gamificación)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-%F0%9F%9F%A9%20Principiante-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-%F0%9F%9F%A9%20Principiante-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-%F0%9F%9F%AB%20Intermedio-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-%F0%9F%9F%A9%20Principiante-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redes%20&%20Sistemas-%F0%9F%9F%A7%20Aprendiz-orange?style=for-the-badge" />
+</p>
+
+> 🟩 = Dominio | 🟨 = Intermedio | 🟦 = Principiante | 🟧 = En progreso
+
+---
+
+### 📊 Mis estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegofonterosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="160" />
+</p>
+
+---
+
+### 🚀 Proyectos destacados
+> *(próximamente – añade enlaces cuando existan repositorios visibles)*  
+- 🌐 Portfolio Web personal (en construcción)  
+- 🐍 Ejercicios Python  
+- 🎨 Proyectos HTML de aprendizaje
+
+---
+
+### 🤝 Conecta conmigo
+<p align="center">
   <a href="https://www.instagram.com/draven1348/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="36" />
   </a>
   <a href="https://www.twitch.tv/draven1348" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="36" />
   </a>
   <a href="https://www.linkedin.com/in/diegoperezfonterosa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="36" />
   </a>
-</div>
+</p>
 
-###
+---
+
+### 🧠 Frase motivadora
+> “El código es como la vida: si no compila, vuelve a intentarlo.”
+
+
