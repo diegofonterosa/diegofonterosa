@@ -50,12 +50,10 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📊 Lenguajes más usados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegofonterosa&theme=tokyonight&hide_border=false" height="170" />
-</p>
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=false)
+
 ---
 
 ### 🚀 Proyectos destacados
