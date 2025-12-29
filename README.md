@@ -13,44 +13,81 @@
   <img src="https://komarev.com/ghpvc/?username=diegofonterosa&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
----
+### 🚀 Sobre mi trabajo
 
-### 🌐 Sobre mí
+👨‍💻 Estudiante de **ASIR** con experiencia práctica en administración de sistemas, programación y desarrollo web. Me especializo en crear soluciones funcionales que resuelven problemas reales, desde gestión de archivos hasta aplicaciones web interactivas.
 
-- 🎓 Estudiante apasionado por **programación, redes y ciberseguridad**
-- 💻 Empezando con: **HTML, CSS, Python, JavaScript**
-- 🧩 Me gusta aprender creando proyectos reales
-- 🎮 También hago streaming en Twitch (cuando hay energía y café ☕🔥)
+### 💼 Áreas de experiencia
+```javascript
+const skills = {
+    backend: ["Python", "Node.js", "APIs"],
+    frontend: ["HTML5", "CSS3", "JavaScript", "React"],
+    sistemas: ["Linux", "Windows Server", "Bash Scripting"],
+    redes: ["Cisco", "TCP/IP", "Routing & Switching"],
+    herramientas: ["Git", "GitHub", "VS Code", "Docker"]
+}
+```
 
----
+### 🔥 Proyectos destacados
 
-### 🧰 Tecnologías & Herramientas
+#### 🐍 [Gestor de Archivos CLI](https://github.com/diegofonterosa/Gestor-Archivos)
+> Sistema completo de gestión de archivos desde la terminal
+- **Stack:** Python, OS module
+- **Features:** CRUD de archivos/carpetas, información detallada, gestión de errores
+- **Aplicación:** Proyecto académico ASIR - Gestión eficiente del sistema de archivos
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</p>
+#### 🧮 [Sistema de Preguntas Interactivo](https://github.com/diegofonterosa/Sistema-preguntas)
+> Aplicación de quiz interactivo con interfaz gráfica
+- **Stack:** Python, Tkinter
+- **Features:** Sistema de puntuación, interfaz intuitiva, banco de preguntas
+- **Uso:** Herramienta educativa para evaluación y autoaprendizaje
 
----
+#### 🌐 [Portfolio Web Personal](https://github.com/diegofonterosa/diegofonterosa.github.io)
+> Mi espacio digital profesional
+- **Stack:** HTML5, CSS3, JavaScript
+- **Features:** Diseño responsive, secciones de proyectos y habilidades
+- **Estado:** 🚀 En desarrollo activo
 
-### 🧠 Nivel de aprendizaje
+#### 📚 [Apuntes ASIR](https://github.com/diegofonterosa/Apuntes)
+> Documentación técnica de mis estudios
+- **Contenido:** Comandos, configuraciones, conceptos clave
+- **Propósito:** Repositorio de conocimiento para consulta rápida
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-Principiante-blue?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-Principiante-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Python-Intermedio-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-Principiante-blue?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Redes_&_Sistemas-Aprendiz-orange?style=for-the-badge" />
-</p>
+### 📊 Estadísticas de desarrollo
 
----
+- 📁 **4+ repositorios públicos** con código funcional
+- 💻 **Múltiples lenguajes**: Python, JavaScript, HTML/CSS
+- 🎯 **Proyectos completos**: Desde CLI hasta web apps
+- 📖 **Documentación activa**: Apuntes y recursos educativos
+
+### 🎯 Actualmente trabajando en
+```bash
+$ git log --oneline
+# 🔨 Ampliando funcionalidades del gestor de archivos
+# 🌐 Mejorando portfolio web con nuevas secciones
+# 📚 Documentando configuraciones de red Cisco
+# 🐍 Desarrollando scripts de automatización en Python
+```
+
+### 💡 Lo que me motiva
+
+- 🧩 Resolver problemas reales con código
+- 📖 Compartir conocimiento a través de documentación
+- 🔄 Mejorar continuamente mis proyectos
+- 🤝 Colaborar en proyectos open source
+
+### 🎓 Formación y objetivos
+
+**Actualmente:**
+- 🎓 Cursando **ASIR** - Administración de Sistemas Informáticos en Red
+- 📜 Preparando certificaciones en redes y ciberseguridad
+- 💼 Buscando oportunidades de prácticas profesionales
+
+**Objetivos 2025:**
+- ✅ Dominar Docker y contenedorización
+- ✅ Contribuir a proyectos open source
+- ✅ Obtener certificación CCNA
+- ✅ Publicar 10+ proyectos completos
 
 
 ### 📊 Estadísticas de GitHub
@@ -71,15 +108,6 @@
 
 ![](https://github-trophies.vercel.app/?username=diegofonterosa&theme=tokyonight&no-frame=true&row=1&column=6)
 
----
-
-### 🚀 Proyectos destacados
-
-- 🌐 **Portfolio Web personal** - En construcción  
-- 🐍 **Ejercicios Python** - Prácticas de aprendizaje  
-- 🎨 **Proyectos HTML** - Ejercicios básicos de maquetación
-
----
 
 ---
 
