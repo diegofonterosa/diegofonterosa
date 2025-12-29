@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-489c7c56-db52-4ad7-937a-d0640b732fc8/ga908G7LFdhYXCwITCx2RtuS?filename=banner_cyberpunk_diego.png" alt="Banner Diego Pérez Fonterosa" />
+  <img src="https://raw.githubusercontent.com/diegofonterosa/diegofonterosa/main/assets/banner_cyberpunk_diego.png" alt="Banner Diego Pérez Fonterosa" />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Diego Pérez Fonterosa</h1>
