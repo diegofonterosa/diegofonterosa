@@ -81,19 +81,29 @@
 
 ---
 
+---
+
 ### 🤝 Conecta conmigo
 
-<p align="center">
-  <a href="https://www.instagram.com/draven1348/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="36" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv/draven1348" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" height="36" alt="Twitch" />
-  </a>
-  <a href="https://www.linkedin.com/in/diegoperezfonterosa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="36" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/draven1348/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/draven1348)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoperezfonterosa/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegofonterosa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegofonterosa@gmail.com)
+
+</div>
+
+<div align="center">
+  
+**📧 Email profesional** • **🎮 Streaming en Twitch** • **💼 Networking en LinkedIn**
+
+<sub>¿Tienes algún proyecto interesante? ¡Hablemos! 💬</sub>
+
+</div>
+
+---
 
 ---
 
