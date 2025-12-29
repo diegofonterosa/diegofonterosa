@@ -59,7 +59,7 @@
 ---
 
 ### 🚀 Proyectos destacados
-> *(próximamente – añade enlaces cuando existan repositorios visibles)*  
+
 - 🌐 Portfolio Web personal (en construcción)  
 - 🐍 Ejercicios Python  
 - 🎨 Proyectos HTML de aprendizaje
