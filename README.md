@@ -52,28 +52,24 @@
 
 ---
 
+
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
 ---
 
 ### 🔥 Racha de contribuciones
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=diegofonterosa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=diegofonterosa&theme=tokyonight&hide_border=false)
 
 ---
 
 ### 🏆 Trofeos de GitHub
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diegofonterosa&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=diegofonterosa&theme=tokyonight&no-frame=true&row=1&column=7)
+
 
 ---
 
