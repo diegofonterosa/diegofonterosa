@@ -53,8 +53,9 @@
 
 ### 📊 Lenguajes más usados
 <p align="center">
-  <img src="https://github-readme-stats-git-main-rstaa.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://img.shields.io/github/languages/top/diegofonterosa/diegofonterosa?style=for-the-badge&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
+
 
 ---
 
