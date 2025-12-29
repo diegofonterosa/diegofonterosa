@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diegofonterosa/diegofonterosa/main/assets/ChatGPT Image 29 dic 2025, 11_00_51.png" alt="Banner Diego Pérez Fonterosa" />
+  <img src="https://raw.githubusercontent.com/diegofonterosa/diegofonterosa/main/assets/banner_cyberpunk.png" alt="Banner Diego Pérez Fonterosa" />
 </p>
+
 
 <h1 align="center">👋 ¡Hola! Soy Diego Pérez Fonterosa</h1>
 <h3 align="center">Estudiante de España, aprendiendo programación y construyendo mi futuro digital 🚀</h3>
