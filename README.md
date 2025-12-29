@@ -51,11 +51,15 @@
 
 ---
 
-### 📊 Lenguajes más usados
+### 📈 Estadísticas de GitHub
+
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/diegofonterosa/diegofonterosa?style=for-the-badge&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegofonterosa&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
