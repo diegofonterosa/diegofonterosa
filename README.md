@@ -52,9 +52,15 @@
 
 ### 📊 Mis estadísticas
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api.svg?username=diegofonterosa&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false" height="160" />
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs.svg?username=diegofonterosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="160" />
+  
+  <img src="https://img.shields.io/badge/GitHub%20Stats-Click%20Here-blue?style=for-the-badge" height="38" />
+
+  <br>
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false" />
+
 </p>
+
 
 ---
 
