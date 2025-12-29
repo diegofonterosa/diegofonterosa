@@ -55,8 +55,9 @@
 
 ### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
 ---
 
@@ -68,8 +69,7 @@
 
 ### 🏆 Trofeos de GitHub
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=diegofonterosa&theme=tokyonight&no-frame=true&row=1&column=7)
-
+![](https://github-trophies.vercel.app/?username=diegofonterosa&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
