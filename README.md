@@ -51,13 +51,18 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegofonterosa&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
+### 🔥 Racha de contribuciones
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegofonterosa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 ---
 
 ### 🚀 Proyectos destacados
