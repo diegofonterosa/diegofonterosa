@@ -76,13 +76,53 @@
 - 📖 **Documentación activa**: Apuntes y recursos educativos
 
 ### 🎯 Actualmente trabajando en
-```bash
-$ git log --oneline
-# 🔨 Ampliando funcionalidades del gestor de archivos
-# 🌐 Mejorando portfolio web con nuevas secciones
-# 📚 Documentando configuraciones de red Cisco
-# 🐍 Desarrollando scripts de automatización en Python
-```
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" />
+      <br />
+      <strong>Gestor v2.0</strong>
+      <br />
+      <sub>Nuevas features</sub>
+      <br />
+      <code>Python</code>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" />
+      <br />
+      <strong>Portfolio Web</strong>
+      <br />
+      <sub>En construcción</sub>
+      <br />
+      <code>HTML/CSS/JS</code>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60" />
+      <br />
+      <strong>Docs ASIR</strong>
+      <br />
+      <sub>Guías técnicas</sub>
+      <br />
+      <code>Markdown</code>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" />
+      <br />
+      <strong>Automation</strong>
+      <br />
+      <sub>Scripts útiles</sub>
+      <br />
+      <code>Python/Bash</code>
+    </td>
+  </tr>
+</table>
+
+📌 **Próximo proyecto:** Sistema de monitorización de red con Python
+
+</div>
 
 ### 💡 Lo que me motiva
 
