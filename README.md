@@ -53,7 +53,8 @@
 
 ### 📊 Lenguajes más usados
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=false)
+![Top Lenguajes](https://github-readme-stats-git-main-rstaa.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=false)
+
 
 ---
 
