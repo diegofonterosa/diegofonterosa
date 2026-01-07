@@ -7,17 +7,17 @@
 
 ---
 
-### 👁️‍🗨️ Contador de visitas
+### Contador de visitas
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diegofonterosa&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
-### 🚀 Sobre mi trabajo
+### Sobre mi trabajo
 
-👨‍💻 Estudiante de **ASIR** con experiencia práctica en administración de sistemas, programación y desarrollo web. Me especializo en crear soluciones funcionales que resuelven problemas reales, desde gestión de archivos hasta aplicaciones web interactivas.
+Estudiante de **ASIR** con experiencia práctica en administración de sistemas, programación y desarrollo web. Me especializo en crear soluciones funcionales que resuelven problemas reales, desde gestión de archivos hasta aplicaciones web interactivas.
 
-### 💼 Stack tecnológico
+### Stack tecnológico
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
@@ -43,39 +43,39 @@
   <sub>Backend • Frontend • Sistemas • Redes • DevOps</sub>
 </p>
 
-### 🔥 Proyectos destacados
+### Proyectos destacados
 
-#### 🐍 [Gestor de Archivos CLI](https://github.com/diegofonterosa/Gestor-Archivos)
+#### [Gestor de Archivos CLI](https://github.com/diegofonterosa/Gestor-Archivos)
 > Sistema completo de gestión de archivos desde la terminal
 - **Stack:** Python, OS module
 - **Features:** CRUD de archivos/carpetas, información detallada, gestión de errores
 - **Aplicación:** Proyecto académico ASIR - Gestión eficiente del sistema de archivos
 
-#### 🧮 [Sistema de Preguntas Interactivo](https://github.com/diegofonterosa/Sistema-preguntas)
+#### [Sistema de Preguntas Interactivo](https://github.com/diegofonterosa/Sistema-preguntas)
 > Aplicación de quiz interactivo con interfaz gráfica
 - **Stack:** Python, Tkinter
 - **Features:** Sistema de puntuación, interfaz intuitiva, banco de preguntas
 - **Uso:** Herramienta educativa para evaluación y autoaprendizaje
 
-#### 🌐 [Portfolio Web Personal](https://github.com/diegofonterosa/diegofonterosa.github.io)
+#### [Portfolio Web Personal](https://github.com/diegofonterosa/diegofonterosa.github.io)
 > Mi espacio digital profesional
 - **Stack:** HTML5, CSS3, JavaScript
 - **Features:** Diseño responsive, secciones de proyectos y habilidades
 - **Estado:** 🚀 En desarrollo activo
 
-#### 📚 [Apuntes ASIR](https://github.com/diegofonterosa/Apuntes)
+#### [Apuntes ASIR](https://github.com/diegofonterosa/Apuntes)
 > Documentación técnica de mis estudios
 - **Contenido:** Comandos, configuraciones, conceptos clave
 - **Propósito:** Repositorio de conocimiento para consulta rápida
 
-### 📊 Estadísticas de desarrollo
+### Estadísticas de desarrollo
 
-- 📁 **4+ repositorios públicos** con código funcional
-- 💻 **Múltiples lenguajes**: Python, JavaScript, HTML/CSS
-- 🎯 **Proyectos completos**: Desde CLI hasta web apps
-- 📖 **Documentación activa**: Apuntes y recursos educativos
+-  **4+ repositorios públicos** con código funcional
+-  **Múltiples lenguajes**: Python, JavaScript, HTML/CSS
+-  **Proyectos completos**: Desde CLI hasta web apps
+-  **Documentación activa**: Apuntes y recursos educativos
 
-### 🎯 Actualmente trabajando en
+###  Actualmente trabajando en
 
 <div align="center">
 
@@ -120,32 +120,32 @@
   </tr>
 </table>
 
-📌 **Próximo proyecto:** Sistema de monitorización de red con Python
+ **Próximo proyecto:** Sistema de monitorización de red con Python
 
 </div>
 
-### 💡 Lo que me motiva
+###  Lo que me motiva
 
-- 🧩 Resolver problemas reales con código
-- 📖 Compartir conocimiento a través de documentación
-- 🔄 Mejorar continuamente mis proyectos
-- 🤝 Colaborar en proyectos open source
+-  Resolver problemas reales con código
+-  Compartir conocimiento a través de documentación
+-  Mejorar continuamente mis proyectos
+-  Colaborar en proyectos open source
 
-### 🎓 Formación y objetivos
+###  Formación y objetivos
 
 **Actualmente:**
-- 🎓 Cursando **ASIR** - Administración de Sistemas Informáticos en Red
-- 📜 Preparando certificaciones en redes y ciberseguridad
-- 💼 Buscando oportunidades de prácticas profesionales
+-  Cursando **ASIR** - Administración de Sistemas Informáticos en Red
+-  Preparando certificaciones en redes y ciberseguridad
+-  Buscando oportunidades de prácticas profesionales
 
 **Objetivos 2025:**
-- ✅ Dominar Docker y contenedorización
-- ✅ Contribuir a proyectos open source
-- ✅ Obtener certificación CCNA
-- ✅ Publicar 10+ proyectos completos
+-  Dominar Docker y contenedorización
+-  Contribuir a proyectos open source
+-  Obtener certificación CCNA
+-  Publicar 10+ proyectos completos
 
 
-### 📊 Estadísticas de GitHub
+###  Estadísticas de GitHub
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
 
@@ -153,20 +153,20 @@
 
 ---
 
-### 🔥 Racha de contribuciones
+###  Racha de contribuciones
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=diegofonterosa&theme=tokyonight&hide_border=false)
 
 ---
 
-### 🏆 Trofeos de GitHub
+###  Trofeos de GitHub
 
 ![](https://github-trophies.vercel.app/?username=diegofonterosa&theme=tokyonight&no-frame=true&row=1&column=6)
 
 
 ---
 
-### 🤝 Conecta conmigo
+###  Conecta conmigo
 
 <div align="center">
   
@@ -180,7 +180,7 @@
 
 <div align="center">
   
-**📧 Email profesional** • **🎮 Streaming en Twitch** • **💼 Networking en LinkedIn**
+** Email profesional** • ** Streaming en Twitch** • ** Networking en LinkedIn**
 
 <sub>¿Tienes algún proyecto interesante? ¡Hablemos! 💬</sub>
 
@@ -190,7 +190,7 @@
 
 ---
 
-### 🧠 Frase motivadora
+###  Frase motivadora
 
 > "El código es como la vida: si no compila, vuelve a intentarlo."
 
