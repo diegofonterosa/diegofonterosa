@@ -1,175 +1,112 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diegofonterosa/diegofonterosa/main/assets/banner_cyberpunk.png" alt="Banner Diego Pérez Fonterosa" />
+  <img src="https://raw.githubusercontent.com/diegofonterosa/diegofonterosa/main/assets/banner_cyberpunk.png" alt="Banner Diego Perez Fonterosa" />
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy Diego Pérez Fonterosa</h1>
-<h3 align="center">Estudiante de España, aprendiendo programación y construyendo mi futuro digital 🚀</h3>
-
----
-
-### Contador de visitas
+<h1 align="center">Hola, soy Diego Perez Fonterosa</h1>
+<h3 align="center">Estudiante ASIR | Sistemas, Python, Web y automatizacion</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diegofonterosa&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=diegofonterosa&style=for-the-badge&color=blueviolet" alt="Visitas del perfil" />
 </p>
 
-### Sobre mi trabajo
+## Sobre mi
 
-Estudiante de **ASIR** con experiencia práctica en administración de sistemas, programación y desarrollo web. Me especializo en crear soluciones funcionales que resuelven problemas reales, desde gestión de archivos hasta aplicaciones web interactivas.
+Estudio **ASIR (Administracion de Sistemas Informaticos en Red)** y construyo proyectos orientados a problemas reales: herramientas CLI, aplicaciones web, ejercicios de backend y automatizacion.
 
-### Stack tecnológico
+- Interes principal: **Python, Linux, redes y desarrollo web**
+- Enfocado en: **codigo limpio, documentacion util y mejora continua**
+- Objetivo actual: **primeras oportunidades profesionales/practicas en IT**
+
+## Stack tecnologico
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" title="Linux" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
 </p>
 
 <p align="center">
-  <sub>Backend • Frontend • Sistemas • Redes • DevOps</sub>
+  <sub>Backend | Frontend | Sistemas | Redes | DevOps</sub>
 </p>
 
-### Proyectos destacados
+## Proyectos destacados
 
-#### [Gestor de Archivos CLI](https://github.com/diegofonterosa/Gestor-Archivos)
-> Sistema completo de gestión de archivos desde la terminal
-- **Stack:** Python, OS module
-- **Features:** CRUD de archivos/carpetas, información detallada, gestión de errores
-- **Aplicación:** Proyecto académico ASIR - Gestión eficiente del sistema de archivos
+### [File Manager CLI Python](https://github.com/diegofonterosa/File-Manager-CLI-Python)
+Gestor de archivos desde terminal con enfoque en productividad y manejo de errores.
 
-#### [Sistema de Preguntas Interactivo](https://github.com/diegofonterosa/Sistema-preguntas)
-> Aplicación de quiz interactivo con interfaz gráfica
-- **Stack:** Python, Tkinter
-- **Features:** Sistema de puntuación, interfaz intuitiva, banco de preguntas
-- **Uso:** Herramienta educativa para evaluación y autoaprendizaje
+- Stack: `Python`
+- Valor: automatiza tareas de gestion de ficheros y estructura de carpetas
 
-#### [Portfolio Web Personal](https://github.com/diegofonterosa/diegofonterosa.github.io)
-> Mi espacio digital profesional
-- **Stack:** HTML5, CSS3, JavaScript
-- **Features:** Diseño responsive, secciones de proyectos y habilidades
-- **Estado:** 🚀 En desarrollo activo
+### [ASIR Interactive Quiz System](https://github.com/diegofonterosa/ASIR-Interactive-Quiz-System)
+Aplicacion de preguntas para practicar contenidos tecnicos de forma interactiva.
 
-#### [Apuntes ASIR](https://github.com/diegofonterosa/Apuntes)
-> Documentación técnica de mis estudios
-- **Contenido:** Comandos, configuraciones, conceptos clave
-- **Propósito:** Repositorio de conocimiento para consulta rápida
+- Stack: `Python`
+- Valor: aprendizaje activo y reutilizable para estudio
 
-### Estadísticas de desarrollo
+### [udemy-free-course-bot](https://github.com/diegofonterosa/udemy-free-course-bot)
+Bot que detecta cursos gratuitos de Udemy y envia avisos por Telegram.
 
--  **4+ repositorios públicos** con código funcional
--  **Múltiples lenguajes**: Python, JavaScript, HTML/CSS
--  **Proyectos completos**: Desde CLI hasta web apps
--  **Documentación activa**: Apuntes y recursos educativos
+- Stack: `Python`, `Telegram`
+- Valor: automatizacion real orientada a ahorro de tiempo
 
-###  Actualmente trabajando en
+### [Proyecto-WebStack](https://github.com/diegofonterosa/Proyecto-WebStack)
+Proyecto web academico para practicar integracion frontend y backend.
 
-<div align="center">
+- Stack: `HTML`, `CSS`, `JavaScript`
+- Valor: base solida para evolucionar a aplicaciones full-stack
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" />
-      <br />
-      <strong>Gestor v2.0</strong>
-      <br />
-      <sub>Nuevas features</sub>
-      <br />
-      <code>Python</code>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" />
-      <br />
-      <strong>Portfolio Web</strong>
-      <br />
-      <sub>En construcción</sub>
-      <br />
-      <code>HTML/CSS/JS</code>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60" />
-      <br />
-      <strong>Docs ASIR</strong>
-      <br />
-      <sub>Guías técnicas</sub>
-      <br />
-      <code>Markdown</code>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" />
-      <br />
-      <strong>Automation</strong>
-      <br />
-      <sub>Scripts útiles</sub>
-      <br />
-      <code>Python/Bash</code>
-    </td>
-  </tr>
-</table>
+## Repos recientes
 
- **Próximo proyecto:** Sistema de monitorización de red con Python
+- [Proyecto-WebStack](https://github.com/diegofonterosa/Proyecto-WebStack)
+- [Portfolio](https://github.com/diegofonterosa/Portfolio)
+- [ASIR-Interactive-Quiz-System](https://github.com/diegofonterosa/ASIR-Interactive-Quiz-System)
+- [udemy-free-course-bot](https://github.com/diegofonterosa/udemy-free-course-bot)
+- [Proyecto2-katas-javascript](https://github.com/diegofonterosa/Proyecto2-katas-javascript)
 
-</div>
+## Actualmente trabajando en
 
-###  Lo que me motiva
+- Mejorar mi portfolio personal y su version responsive
+- Subir mas proyectos de Python aplicados a sistemas
+- Fortalecer conocimientos de SQL/noSQL con proyectos practicos
 
--  Resolver problemas reales con código
--  Compartir conocimiento a través de documentación
--  Mejorar continuamente mis proyectos
--  Colaborar en proyectos open source
+## Formacion y objetivos
 
-###  Formación y objetivos
+**Ahora**
 
-**Actualmente:**
--  Cursando **ASIR** - Administración de Sistemas Informáticos en Red
--  Preparando certificaciones en redes y ciberseguridad
--  Buscando oportunidades de prácticas profesionales
+- Cursando ASIR
+- Preparando certificaciones de redes y ciberseguridad
+- Buscando practicas y colaboraciones tecnicas
 
-**Objetivos 2025:**
--  Dominar Docker y contenedorización
--  Contribuir a proyectos open source
--  Obtener certificación CCNA
--  Publicar 10+ proyectos completos
+**Objetivos 2026**
 
+- Publicar proyectos mas completos y mejor documentados
+- Mejorar CI/CD y uso de Docker en proyectos propios
+- Contribuir en open source de forma constante
 
-###  Estadísticas de GitHub
+## Estadisticas GitHub
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
----
-
-###  Racha de contribuciones
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=diegofonterosa&theme=tokyonight&hide_border=false)
 
----
-
-###  Trofeos de GitHub
-
-![](https://github-trophies.vercel.app/?username=diegofonterosa&theme=tokyonight&no-frame=true&row=1&column=6)
-
-
----
-
-###  Conecta conmigo
+## Conecta conmigo
 
 <div align="center">
-  
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/draven1348/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/draven1348)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoperezfonterosa/)
@@ -178,24 +115,6 @@ Estudiante de **ASIR** con experiencia práctica en administración de sistemas,
 
 </div>
 
-<div align="center">
-  
-** Email profesional** • ** Streaming en Twitch** • ** Networking en LinkedIn**
-
-<sub>¿Tienes algún proyecto interesante? ¡Hablemos! 💬</sub>
-
-</div>
-
----
-
----
-
-###  Frase motivadora
-
-> "El código es como la vida: si no compila, vuelve a intentarlo."
-
----
-
 <p align="center">
-  <i>⭐ Si te gusta mi trabajo, no dudes en darle una estrella a mis proyectos ⭐</i>
+  <i>Si te interesa colaborar en algun proyecto, escribeme.</i>
 </p>
