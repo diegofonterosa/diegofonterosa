@@ -79,7 +79,7 @@ Proyecto web academico para practicar integracion frontend y backend.
 
 - Mejorar mi portfolio personal y su version responsive
 - Subir mas proyectos de Python aplicados a sistemas
-- Fortalecer conocimientos de SQL/noSQL con proyectos practicos
+- Fortalecer conocimientos de SQL/NoSQL con proyectos practicos
 
 ## Formacion y objetivos
 
@@ -97,9 +97,9 @@ Proyecto web academico para practicar integracion frontend y backend.
 
 ## Estadisticas GitHub
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
+![Estadisticas de GitHub de diegofonterosa](https://github-readme-stats-sigma-five.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
+![Lenguajes mas usados por diegofonterosa](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=diegofonterosa&theme=tokyonight&hide_border=false)
 
