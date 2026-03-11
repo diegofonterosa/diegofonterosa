@@ -62,10 +62,10 @@ Bot que detecta cursos gratuitos de Udemy y envia avisos por Telegram.
 - Valor: automatizacion real orientada a ahorro de tiempo
 
 ### [Proyecto-WebStack](https://github.com/diegofonterosa/Proyecto-WebStack)
-Proyecto web academico para practicar integracion frontend y backend.
+E-commerce con arquitectura de microservicios: API Gateway Node.js, servicios PHP (auth, productos, pedidos), Strapi CMS y MySQL orquestados con Docker Compose.
 
-- Stack: `HTML`, `CSS`, `JavaScript`
-- Valor: base solida para evolucionar a aplicaciones full-stack
+- Stack: `Node.js`, `PHP`, `MySQL`, `Docker`, `EJS`, `GitHub Actions`
+- Valor: arquitectura real de produccion con CI/CD, tests de integracion, observabilidad (health/metrics) y gestion segura de secretos
 
 ## Repos recientes
 
@@ -91,9 +91,9 @@ Proyecto web academico para practicar integracion frontend y backend.
 
 **Objetivos 2026**
 
-- Publicar proyectos mas completos y mejor documentados
-- Mejorar CI/CD y uso de Docker en proyectos propios
 - Contribuir en open source de forma constante
+- Escalar Proyecto-WebStack a entorno productivo (HTTPS, rate limiting, deploy cloud)
+- Incorporar bases de datos NoSQL en algun proyecto propio
 
 ## Estadisticas GitHub
 
