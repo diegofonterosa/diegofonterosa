@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diegofonterosa/diegofonterosa/main/assets/banner_cyberpunk.png" alt="Banner Diego Perez Fonterosa" />
+  <img src="https://raw.githubusercontent.com/diegofonterosa/diegofonterosa/main/assets/banner_cyberpunk.png" alt="Banner Diego Pérez Fonterosa" />
 </p>
 
-<h1 align="center">Hola, soy Diego Perez Fonterosa</h1>
-<h3 align="center">Estudiante ASIR | Sistemas, Python, Web y automatizacion</h3>
+<h1 align="center">Hola, soy Diego Pérez Fonterosa</h1>
+<h3 align="center">Estudiante ASIR | Sistemas, Python, Web y automatización</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diegofonterosa&style=for-the-badge&color=blueviolet" alt="Visitas del perfil" />
 </p>
 
-## Sobre mi
+## Sobre mí
 
-Estudio **ASIR (Administracion de Sistemas Informaticos en Red)** y construyo proyectos orientados a problemas reales: herramientas CLI, aplicaciones web, ejercicios de backend y automatizacion.
+Estudio **ASIR (Administración de Sistemas Informáticos en Red)** y construyo proyectos orientados a problemas reales: herramientas CLI, aplicaciones web, ejercicios de backend y automatización.
 
-- Interes principal: **Python, Linux, redes y desarrollo web**
-- Enfocado en: **codigo limpio, documentacion util y mejora continua**
-- Objetivo actual: **primeras oportunidades profesionales/practicas en IT**
+- Interés principal: **Python, Linux, redes y desarrollo web**
+- Enfocado en: **código limpio, documentación útil y mejora continua**
+- Objetivo actual: **primeras oportunidades profesionales/prácticas en IT**
 
-## Stack tecnologico
+## Stack tecnológico
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" />
@@ -47,25 +47,25 @@ Estudio **ASIR (Administracion de Sistemas Informaticos en Red)** y construyo pr
 Gestor de archivos desde terminal con enfoque en productividad y manejo de errores.
 
 - Stack: `Python`
-- Valor: automatiza tareas de gestion de ficheros y estructura de carpetas
+- Valor: Automatiza tareas de gestión de ficheros y estructura de carpetas.
 
 ### [ASIR Interactive Quiz System](https://github.com/diegofonterosa/ASIR-Interactive-Quiz-System)
-Aplicacion de preguntas para practicar contenidos tecnicos de forma interactiva.
+Aplicación de preguntas para practicar contenidos técnicos de forma interactiva.
 
 - Stack: `Python`
-- Valor: aprendizaje activo y reutilizable para estudio
+- Valor: Aprendizaje activo y reutilizable para estudio.
 
 ### [udemy-free-course-bot](https://github.com/diegofonterosa/udemy-free-course-bot)
-Bot que detecta cursos gratuitos de Udemy y envia avisos por Telegram.
+Bot que detecta cursos gratuitos de Udemy y envía avisos por Telegram.
 
 - Stack: `Python`, `Telegram`
-- Valor: automatizacion real orientada a ahorro de tiempo
+- Valor: Automatización real orientada al ahorro de tiempo.
 
 ### [Proyecto-WebStack](https://github.com/diegofonterosa/Proyecto-WebStack)
 E-commerce con arquitectura de microservicios: API Gateway Node.js, servicios PHP (auth, productos, pedidos), Strapi CMS y MySQL orquestados con Docker Compose.
 
 - Stack: `Node.js`, `PHP`, `MySQL`, `Docker`, `EJS`, `GitHub Actions`
-- Valor: arquitectura real de produccion con CI/CD, tests de integracion, observabilidad (health/metrics) y gestion segura de secretos
+- Valor: Arquitectura real de producción con CI/CD, tests de integración, observabilidad (health/metrics) y gestión segura de secretos.
 
 ## Repos recientes
 
@@ -77,29 +77,29 @@ E-commerce con arquitectura de microservicios: API Gateway Node.js, servicios PH
 
 ## Actualmente trabajando en
 
-- Mejorar mi portfolio personal y su version responsive
-- Subir mas proyectos de Python aplicados a sistemas
-- Fortalecer conocimientos de SQL/NoSQL con proyectos practicos
+- Mejorar mi portfolio personal y su versión responsive.
+- Subir más proyectos de Python aplicados a sistemas.
+- Fortalecer conocimientos de SQL/NoSQL con proyectos prácticos.
 
-## Formacion y objetivos
+## Formación y objetivos
 
 **Ahora**
 
-- Cursando ASIR
-- Preparando certificaciones de redes y ciberseguridad
-- Buscando practicas y colaboraciones tecnicas
+- Cursando ASIR.
+- Preparando certificaciones de redes y ciberseguridad.
+- Buscando prácticas y colaboraciones técnicas.
 
 **Objetivos 2026**
 
-- Contribuir en open source de forma constante
-- Escalar Proyecto-WebStack a entorno productivo (HTTPS, rate limiting, deploy cloud)
-- Incorporar bases de datos NoSQL en algun proyecto propio
+- Contribuir en Open Source de forma constante.
+- Escalar Proyecto-WebStack a entorno productivo (HTTPS, rate limiting, deploy cloud).
+- Incorporar bases de datos NoSQL en algún proyecto propio.
 
-## Estadisticas GitHub
+## Estadísticas GitHub
 
-![Estadisticas de GitHub de diegofonterosa](https://github-readme-stats-sigma-five.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
+![Estadísticas de GitHub de diegofonterosa](https://github-readme-stats-sigma-five.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
 
-![Lenguajes mas usados por diegofonterosa](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
+![Lenguajes más usados por diegofonterosa](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=diegofonterosa&theme=tokyonight&hide_border=false)
 
@@ -116,5 +116,5 @@ E-commerce con arquitectura de microservicios: API Gateway Node.js, servicios PH
 </div>
 
 <p align="center">
-  <i>Si te interesa colaborar en algun proyecto, escribeme.</i>
+  <i>Si te interesa colaborar en algún proyecto, escríbeme.</i>
 </p>
