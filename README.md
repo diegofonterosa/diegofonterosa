@@ -43,6 +43,12 @@ Estudio **ASIR (Administración de Sistemas Informáticos en Red)** y construyo 
 
 ## Proyectos destacados
 
+### [Security Alert Monitor](https://github.com/diegofonterosa/security-alert-monitor)
+Mini-SIEM personal con panel de alertas en tiempo real, API REST y gráficas con Chart.js.
+
+- Stack: `Node.js`, `Express`, `MongoDB`, `JWT`, `Chart.js`
+- Valor: Dashboard de seguridad funcional con autenticación y deploy en Atlas + Render.
+ 
 ### [File Manager CLI Python](https://github.com/diegofonterosa/File-Manager-CLI-Python)
 Gestor de archivos desde terminal con enfoque en productividad y manejo de errores.
 
@@ -67,13 +73,18 @@ E-commerce con arquitectura de microservicios: API Gateway Node.js, servicios PH
 - Stack: `Node.js`, `PHP`, `MySQL`, `Docker`, `EJS`, `GitHub Actions`
 - Valor: Arquitectura real de producción con CI/CD, tests de integración, observabilidad (health/metrics) y gestión segura de secretos.
 
+### [Tienda Gaming Web](https://github.com/diegofonterosa/Proyecto-tienda-gaming-web)
+Tienda online de periféricos gaming con diseño responsive, formulario de contacto y carrito interactivo.
+
+- Stack: `HTML5`, `CSS3`, `JavaScript` vanilla
+- Valor: Proyecto frontend completo con buenas prácticas de maquetación y UX.
 ## Repos recientes
 
+- [Proyecto-tienda-gaming-web](https://github.com/diegofonterosa/Proyecto-tienda-gaming-web)
+- [security-alert-monitor](https://github.com/diegofonterosa/security-alert-monitor)
 - [Proyecto-WebStack](https://github.com/diegofonterosa/Proyecto-WebStack)
 - [Portfolio](https://github.com/diegofonterosa/Portfolio)
 - [ASIR-Interactive-Quiz-System](https://github.com/diegofonterosa/ASIR-Interactive-Quiz-System)
-- [udemy-free-course-bot](https://github.com/diegofonterosa/udemy-free-course-bot)
-- [Proyecto2-katas-javascript](https://github.com/diegofonterosa/Proyecto2-katas-javascript)
 
 ## Actualmente trabajando en
 
