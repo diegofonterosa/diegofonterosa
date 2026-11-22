@@ -15,7 +15,7 @@
 
 Durante **16 años** trabajé como operador técnico en una **central receptora de alarmas**: monitorización 24/7, gestión de incidencias en tiempo real y soporte técnico. Ahora llevo esa experiencia a la seguridad informática.
 
-- Terminando el **CFGS de ASIR** (nota media 9,06) y el **Máster en Ciberseguridad**
+- Terminando el **CFGS de ASIR** y el **Máster en Ciberseguridad**
 - Prácticas como **técnico de sistemas** en una empresa de Vigo: auditoría de Active Directory, VPN, soporte a usuarios y Helpdesk
 - **Laboratorio propio**: Wazuh, TheHive, Cortex, n8n, honeypot Cowrie y entorno de pentest con Kali
 - Busco puesto de **SOC N1, NOC, monitorización o soporte N1/N2**, en remoto o en la zona de Vigo
