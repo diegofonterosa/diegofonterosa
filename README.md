@@ -108,19 +108,24 @@ Tienda online de periféricos gaming con diseño responsive, formulario de conta
 
 ## Estadísticas GitHub
 
-![Estadísticas de GitHub de diegofonterosa](https://github-readme-stats-sigma-five.vercel.app/api?username=diegofonterosa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diegofonterosa/diegofonterosa/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Actividad en GitHub de diegofonterosa" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diegofonterosa/diegofonterosa/main/profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="Estadísticas de GitHub de diegofonterosa" />
+  <img src="https://raw.githubusercontent.com/diegofonterosa/diegofonterosa/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="Lenguajes con más commits" />
+</p>
 
-![Lenguajes más usados por diegofonterosa](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegofonterosa&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=diegofonterosa&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=diegofonterosa&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" />
+</p>
 
 ## Conecta conmigo
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drc)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/draven1348)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/die)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofonterosa)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegofonterosa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegofonterosa@gmail.com)
 
