@@ -3,108 +3,100 @@
 </p>
 
 <h1 align="center">Hola, soy Diego Pérez Fonterosa</h1>
-<h3 align="center">Estudiante ASIR | Sistemas, Python, Web y automatización</h3>
+<h3 align="center">Sistemas y ciberseguridad · SOC · NOC · Soporte IT</h3>
 
 <p align="center">
+  <a href="https://portfoliodiegofonterosa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Disponible-desde%2016%2F12%2F2026-00d4ff?style=for-the-badge" alt="Disponible desde el 16/12/2026" />
   <img src="https://komarev.com/ghpvc/?username=diegofonterosa&style=for-the-badge&color=blueviolet" alt="Visitas del perfil" />
 </p>
 
 ## Sobre mí
 
-Estudio **ASIR (Administración de Sistemas Informáticos en Red)** y construyo proyectos orientados a problemas reales: herramientas CLI, aplicaciones web, ejercicios de backend y automatización.
+Durante **16 años** trabajé como operador técnico en una **central receptora de alarmas**: monitorización 24/7, gestión de incidencias en tiempo real y soporte técnico. Ahora llevo esa experiencia a la seguridad informática.
 
-- Interés principal: **Python, Linux, redes y desarrollo web**
-- Enfocado en: **código limpio, documentación útil y mejora continua**
-- Objetivo actual: **primeras oportunidades profesionales/prácticas en IT**
+- Terminando el **CFGS de ASIR** (nota media 9,06) y el **Máster en Ciberseguridad**
+- Prácticas como **técnico de sistemas** en una empresa de Vigo: auditoría de Active Directory, VPN, soporte a usuarios y Helpdesk
+- **Laboratorio propio**: Wazuh, TheHive, Cortex, n8n, honeypot Cowrie y entorno de pentest con Kali
+- Busco puesto de **SOC N1, NOC, monitorización o soporte N1/N2**, en remoto o en la zona de Vigo
 
 ## Stack tecnológico
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/TheHive-F3B700?style=flat-square&logoColor=black" alt="TheHive" />
+  <img src="https://img.shields.io/badge/Cortex-4B5563?style=flat-square" alt="Cortex" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat-square" alt="MITRE ATT&CK" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/OpenVAS-66C430?style=flat-square" alt="OpenVAS" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Active Directory" />
 </p>
 
 <p align="center">
-  <sub>Backend | Frontend | Sistemas | Redes | DevOps</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" title="Bash" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions" />
 </p>
 
 ## Proyectos destacados
 
-### [Security Alert Monitor](https://github.com/diegofonterosa/security-alert-monitor)
-Mini-SIEM personal con panel de alertas en tiempo real, API REST y gráficas con Chart.js.
+### 🍯 [PFC-Cowrie](https://github.com/diegofonterosa/PFC-Cowrie) · Honeypot SSH con inteligencia de amenazas
+Proyecto final de ASIR. Honeypot Cowrie expuesto a Internet en Hetzner durante 28 días y análisis de los ataques capturados.
 
-- Stack: `Node.js`, `Express`, `MongoDB`, `JWT`, `Chart.js`
-- Valor: Dashboard de seguridad funcional con autenticación y deploy en Atlas + Render.
+- **216.222 sesiones** desde 4.028 IP de 119 países
+- **24 técnicas MITRE ATT&CK** en 9 tácticas, con clasificador propio en Python (52/52 pruebas)
+- Campañas identificadas: botnet Outlaw/Dota, criptominero RedTail y credential stuffing por huella HASSH
+- Stack: `Cowrie`, `Python`, `iptables`, `MITRE ATT&CK`, `Wazuh`
 
-### [File Manager CLI Python](https://github.com/diegofonterosa/File-Manager-CLI-Python)
-Gestor de archivos desde terminal con enfoque en productividad y manejo de errores.
+### 🔐 [dvwa-devsecops-pipeline](https://github.com/diegofonterosa/dvwa-devsecops-pipeline) · Pipeline DevSecOps
+Pipeline en GitHub Actions de cinco fases sobre una aplicación vulnerable (DVWA).
 
-- Stack: `Python`
-- Valor: Automatiza tareas de gestión de ficheros y estructura de carpetas.
+- SAST con Semgrep, SCA con Trivy, secretos con Gitleaks, imagen Docker con Trivy y DAST con OWASP ZAP
+- Corrección de SQLi, XSS e inyección de comandos
+- Stack: `GitHub Actions`, `Semgrep`, `Trivy`, `Gitleaks`, `OWASP ZAP`, `Docker`
 
-### [ASIR Interactive Quiz System](https://github.com/diegofonterosa/ASIR-Interactive-Quiz-System)
-Aplicación de preguntas para practicar contenidos técnicos de forma interactiva.
+### 🛡️ [Security Alert Monitor](https://github.com/diegofonterosa/security-alert-monitor) · Mini-SIEM
+Panel de alertas de seguridad inspirado en mi trabajo en la CRA, con API REST y dashboard web.
 
-- Stack: `Python`
-- Valor: Aprendizaje activo y reutilizable para estudio.
+- Autenticación JWT, Helmet, CORS y rate limiting
+- Vulnerabilidades corregidas tras el análisis con SonarCloud (NoSQL injection, XSS y mass assignment)
+- Stack: `Node.js`, `Express`, `MongoDB`, `Chart.js`
 
-### [udemy-free-course-bot](https://github.com/diegofonterosa/udemy-free-course-bot)
-Bot que detecta cursos gratuitos de Udemy y envía avisos por Telegram.
+### 🌐 [Proyecto-WebStack](https://github.com/diegofonterosa/Proyecto-WebStack) · E-commerce con microservicios
+API Gateway en Node.js, servicios en PHP, Strapi CMS y MySQL orquestados con Docker Compose, con CI/CD en GitHub Actions.
 
-- Stack: `Python`, `Telegram`
-- Valor: Automatización real orientada al ahorro de tiempo.
+- Stack: `Node.js`, `PHP`, `MySQL`, `Docker`, `GitHub Actions`
 
-### [Proyecto-WebStack](https://github.com/diegofonterosa/Proyecto-WebStack)
-E-commerce con arquitectura de microservicios: API Gateway Node.js, servicios PHP (auth, productos, pedidos), Strapi CMS y MySQL orquestados con Docker Compose.
+<details>
+<summary><b>Otros proyectos</b></summary>
 
-- Stack: `Node.js`, `PHP`, `MySQL`, `Docker`, `EJS`, `GitHub Actions`
-- Valor: Arquitectura real de producción con CI/CD, tests de integración, observabilidad (health/metrics) y gestión segura de secretos.
+- [ASIR Interactive Quiz System](https://github.com/diegofonterosa/ASIR-Interactive-Quiz-System): cuestionario CLI en Python con ranking persistente
+- [File Manager CLI Python](https://github.com/diegofonterosa/File-Manager-CLI-Python): gestor de archivos desde terminal
+- [udemy-free-course-bot](https://github.com/diegofonterosa/udemy-free-course-bot): bot que detecta cursos gratuitos y avisa por Telegram
+- [Tienda Gaming Web](https://github.com/diegofonterosa/Proyecto-tienda-gaming-web): tienda online en HTML, CSS y JavaScript
+- [Portfolio](https://github.com/diegofonterosa/Portfolio): mi portfolio web personal
 
-### [Tienda Gaming Web](https://github.com/diegofonterosa/Proyecto-tienda-gaming-web)
-Tienda online de periféricos gaming con diseño responsive, formulario de contacto y carrito interactivo.
+</details>
 
-- Stack: `HTML5`, `CSS3`, `JavaScript` vanilla
-- Valor: Proyecto frontend completo con buenas prácticas de maquetación y UX.
-## Repos recientes
+## Ahora mismo
 
-- [Proyecto-tienda-gaming-web](https://github.com/diegofonterosa/Proyecto-tienda-gaming-web)
-- [security-alert-monitor](https://github.com/diegofonterosa/security-alert-monitor)
-- [Proyecto-WebStack](https://github.com/diegofonterosa/Proyecto-WebStack)
-- [Portfolio](https://github.com/diegofonterosa/Portfolio)
-- [ASIR-Interactive-Quiz-System](https://github.com/diegofonterosa/ASIR-Interactive-Quiz-System)
-
-## Actualmente trabajando en
-
-- Mejorar mi portfolio personal y su versión responsive.
-- Subir más proyectos de Python aplicados a sistemas.
-- Fortalecer conocimientos de SQL/NoSQL con proyectos prácticos.
-
-## Formación y objetivos
-
-**Ahora**
-
-- Cursando ASIR.
-- Preparando certificaciones de redes y ciberseguridad.
-- Buscando prácticas y colaboraciones técnicas.
-
-**Objetivos 2026**
-
-- Contribuir en Open Source de forma constante.
-- Escalar Proyecto-WebStack a entorno productivo (HTTPS, rate limiting, deploy cloud).
-- Incorporar bases de datos NoSQL en algún proyecto propio.
+- Cerrando las prácticas (hasta el 15 de diciembre de 2026)
+- Defensa del proyecto final de ASIR en diciembre de 2026
+- Próximo objetivo de certificación: Azure Administrator (AZ-104)
 
 ## Estadísticas GitHub
 
@@ -132,5 +124,5 @@ Tienda online de periféricos gaming con diseño responsive, formulario de conta
 </div>
 
 <p align="center">
-  <i>Si te interesa colaborar en algún proyecto, escríbeme.</i>
+  <i>¿Tienes una vacante de SOC, NOC o soporte IT? Escríbeme.</i>
 </p>
